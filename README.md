@@ -6,7 +6,7 @@
 ---
 
 ## 🔧 Skills
-- SQL (PostgreSQL, MySQL)
+- SQL (PostgreSQL)
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Power BI (DAX, Data Modeling, Dashboard Design)
 - Excel (Advanced formulas, Pivot Tables, Data Cleaning)
