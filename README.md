@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jay Gupta 👋
 
-<!--
-**jaygupta1005/jaygupta1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | SQL | Python | Power BI | Excel  
+📊 Passionate about turning data into actionable business insights  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- SQL (PostgreSQL, MySQL)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Power BI (DAX, Data Modeling, Dashboard Design)
+- Excel (Advanced formulas, Pivot Tables, Data Cleaning)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/jayguptaa3
