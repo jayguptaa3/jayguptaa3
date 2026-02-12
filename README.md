@@ -1,7 +1,9 @@
 # Hi, I'm Jay Gupta 👋
 
-🎯 Aspiring Data Analyst | SQL | Python | Power BI | Excel  
-📊 Passionate about turning data into actionable business insights  
+## 🚀 About Me
+I am an aspiring Data Analyst with a strong foundation in SQL, Python, Excel, and Power BI. I enjoy working with data to uncover meaningful insights that help businesses make better decisions.
+Through hands-on projects, I have gained experience in data cleaning, exploratory data analysis (EDA), writing optimized SQL queries, and building interactive dashboards. I focus on transforming raw datasets into clear, actionable insights.
+I am continuously improving my analytical skills by building data projects and learning advanced SQL and Power BI techniques.
 
 
 
@@ -14,4 +16,4 @@
 
 
 ## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/jayguptaa3
+- 💼 LinkedIn: www.linkedin.com/in/jayguptaa3
